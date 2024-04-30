@@ -1,0 +1,1 @@
+Docx4j is an open-source Java library used for creating and manipulating Microsoft Open XML files, including Word (.docx), PowerPoint (.pptx), and Excel (.xlsx) files. It is distributed under the Apache License (v2).
